@@ -1,0 +1,15 @@
+{
+  "name": "co-warlock",
+  "version": "0.1.0",
+  "description": "co wrapper for node-redis-warlock (Battle-hardened distributed locking using redis)",
+  "main": "coWarlock.js",
+  "dependencies": {
+    "thunkify": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
